@@ -9,5 +9,6 @@ Make Web Not War Montreal is a full day conference about web standards, open sou
 * [Darrel Miller](http://www.bizcoder.com/) - [@darrel_miller](https://twitter.com/darrel_miller)
 * [Frédéric Harper](http://outofcomfortzone.net/) - [@fharper](https://twitter.com/fharper)
 * [Roberto Rocha](http://robertorocha.info/) - [@robroc](https://twitter.com/robroc)
+* [Raymond Kao](http://homieshq.com/) - [@raykao](https://twitter.com/raykao)
 * Carla Morawicz - [@carlamorawicz](https://twitter.com/carlamorawicz)
 * [Jean-Noé Landry](http://www.opennorth.ca/) - [@opennorth](https://twitter.com/opennorth)
