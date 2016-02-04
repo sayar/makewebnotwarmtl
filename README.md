@@ -5,7 +5,7 @@ Make Web Not War Montreal is a full day conference about web standards, open sou
 
 ## Speakers
 
-* [Rami Sayar](https://ramisayar.com) - [@ramisayar](https://twitter.com/ramisayar)
+* [Rami Sayar](https://ramisayar.com) - [@ramisayar](https://twitter.com/ramisayar): Slides in the repository.
 * [Darrel Miller](http://www.bizcoder.com/) - [@darrel_miller](https://twitter.com/darrel_miller)
 * [Frédéric Harper](http://outofcomfortzone.net/) - [@fharper](https://twitter.com/fharper)
 * [Roberto Rocha](http://robertorocha.info/) - [@robroc](https://twitter.com/robroc): [Slides](https://github.com/robroc/MakeWebNotWar-scraping-with-BeautifulSoup/blob/master/Web%20scraping%20with%20BeautifulSoup.ipynb)
