@@ -7,7 +7,7 @@ Make Web Not War Montreal is a full day conference about web standards, open sou
 
 * [Rami Sayar](https://ramisayar.com) - [@ramisayar](https://twitter.com/ramisayar): Slides in the repository.
 * [Darrel Miller](http://www.bizcoder.com/) - [@darrel_miller](https://twitter.com/darrel_miller): [Slides](http://1drv.ms/1VRGsJ8)
-* [Frédéric Harper](http://outofcomfortzone.net/) - [@fharper](https://twitter.com/fharper)
+* [Frédéric Harper](http://outofcomfortzone.net/) - [@fharper](https://twitter.com/fharper): [Slides](http://www.slideshare.net/fredericharper/frederic-harper-i-dont-like-open-source-and-you-shouldnt-like-it-either-make-web-not-war-montreal-20160205)
 * [Roberto Rocha](http://robertorocha.info/) - [@robroc](https://twitter.com/robroc): [Slides](https://github.com/robroc/MakeWebNotWar-scraping-with-BeautifulSoup/blob/master/Web%20scraping%20with%20BeautifulSoup.ipynb)
 * [Raymond Kao](http://peopleandcode.com/) - [@raykao](https://twitter.com/raykao): [Slides](https://docs.google.com/a/peopleandcode.com/presentation/d/1mvbRGkEbwmBIqab60AwPq1x0443H_kAcDl9jH30uZxk/edit?usp=sharing) and [Demo Code Repo](https://github.com/raykao/open-data-ember)
 * Carla Morawicz - [@carlamorawicz](https://twitter.com/carlamorawicz)
